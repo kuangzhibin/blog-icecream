@@ -4,9 +4,10 @@
 
 # Site
 title: iceCream
-subtitle:
-description:
+subtitle: kuangzhibin's blog
+description: kuangzhibin's blog | f2e | html | css | javascript
 author: kuangzhibin
+email: kuangzhibin@live.com
 language: zh-CN
 timezone:
 
@@ -67,5 +68,5 @@ theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
+deploy: git@github.com:kuangzhibin/kuangzhibin.github.io.git
+  type: github
