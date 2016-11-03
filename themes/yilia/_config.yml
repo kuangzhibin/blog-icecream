@@ -38,7 +38,7 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
+favicon: /favicon.ico
 
 #你的头像url
 avatar: http://7s1rhv.com1.z0.glb.clouddn.com/iblog_User.jpg
